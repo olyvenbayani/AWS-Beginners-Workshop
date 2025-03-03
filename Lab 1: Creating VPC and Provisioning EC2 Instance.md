@@ -3,8 +3,15 @@ In this lab, you will learn how to launch an EC2 instance within the public subn
 
 ## 0. Create VPC
 
-1. Go to AWS VPC in the management Console
-2. 
+1. Go to AWS VPC in the management Console.
+
+2. Note that 5 vpcs are allowed per region. You can use sydney, singapore, north virginia, ohio and tokyo.
+  
+3.  Click on Create VPC >  VPC and more
+
+4. Turn off the NAT Gateway and S3 Gateway
+
+5. Click Create  
 
 
 ## 1. Launch an EC2 Instance
