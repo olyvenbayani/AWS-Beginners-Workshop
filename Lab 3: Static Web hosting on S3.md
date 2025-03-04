@@ -19,7 +19,7 @@ In this lab, we will configure **Amazon S3** to host a static website and levera
 
 ## 2. Setup static website hosting
 
-2-a. Download the static website from this URL: [https://camp-labs.s3-ap-southeast-1.amazonaws.com/static_website.zip.
+2-a. Download the static website from this URL: [Github - Carlo S3 Website]
 ](https://github.com/olyvenbayani/S3-Static-Website-Hosting-Labs)
 
 Once the file is downloaded, extract it to get the **index.html** and **badge-camp.png** files.
