@@ -74,7 +74,7 @@ Therefore the template we have used to create resources is considered static, al
 
 1. Navigate to your terminal and create a file named dynamic-cf.yml and paste the template from earlier's url: 
 
-https://github.com/olyvenbayani/labs-IaC-Lab01/blob/5e3ebe575cea10b5f65e457b120202d87e5c02c8/dynamic-template.yml
+https://github.com/olyvenbayani/labs-IaC-Lab01
 
 Again, if you're using a terminal/CLI you can run:
 ```sh
